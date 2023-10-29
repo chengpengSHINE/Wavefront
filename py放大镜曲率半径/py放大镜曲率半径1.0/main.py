@@ -43,7 +43,7 @@ I = Image.open("./e.tif")  # 读取图片
 # cleaned_arr = np.where(np.abs(arr - mean) <= threshold, arr, mean)
 # I = cleaned_arr
 
-cut_x=400
+cut_x=800
 cut_y=600
 I=np.array(I)
 I=I[cut_x:-cut_x,cut_y:-cut_y]
