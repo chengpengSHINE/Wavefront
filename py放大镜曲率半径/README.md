@@ -2,7 +2,9 @@
 求出相位
 曲率半径
 ![image](https://github.com/chengpengSHINE/Wavefront/assets/130882847/1aedf1d4-e1ac-4f02-b98d-8ae0021ed305)
+
 运行结果
+
 960 960
 480 92
 平均值x： 0.24177076306921857
