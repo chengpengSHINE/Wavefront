@@ -43,7 +43,7 @@ I = Image.open("./e.tif")  # 读取图片
 # cleaned_arr = np.where(np.abs(arr - mean) <= threshold, arr, mean)
 # I = cleaned_arr
 
-cut_x=800
+cut_x=400
 cut_y=600
 I=np.array(I)
 I=I[cut_x:-cut_x,cut_y:-cut_y]
@@ -52,7 +52,7 @@ f = np.fft.fft2(I)
 fshift = np.fft.fftshift(f)  # 将0频率分量移动到中心
 ###计算
 central_place=int(len(I)/2)
-distance=int(len(I)*pixel/p1/2*np.sqrt(2))
+distance=round(len(I)*pixel/p1/2*np.sqrt(2))
 print(central_place,distance)
 jiequ_fshift = flybhsdxqyjgb(fshift, central_place, distance)
 jiequ_fshift_01 = jiequ_fshift[0]
