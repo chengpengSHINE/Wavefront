@@ -1,12 +1,12 @@
-pixel size = 6.5e-07
-chekerboard grating period = 4.8e-06
-pattern = Diagonal half pi
-distance detector to gr = 0.33
-photon energy = 14000.0
-source distance = 32.0
-像素大小=6.5e-07
-棋盘格光栅周期=4.8e-06
-模式=对角半圆周
-距离探测器到gr=0.33
-光子能量=14000.0
-源距离=32.0
+曲率半径
+![image](https://github.com/chengpengSHINE/Wavefront/assets/130882847/4fee9fa6-198e-414a-82f5-025f940908e1)
+
+运行结果
+
+2048 2048
+1024 89
+平均值x： -3887.3627672851862
+曲率半径Rx： -0.000257243807656873
+平均值y： -3874.56114414198
+曲率半径Ry： -0.00025809374605222535
+比值Ry/Rx： 1.0033040188725788
