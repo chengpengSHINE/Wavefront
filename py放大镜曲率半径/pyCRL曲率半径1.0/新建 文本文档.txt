@@ -1,0 +1,12 @@
+pixel size = 6.5e-07
+chekerboard grating period = 4.8e-06
+pattern = Diagonal half pi
+distance detector to gr = 0.33
+photon energy = 14000.0
+source distance = 32.0
+像素大小=6.5e-07
+棋盘格光栅周期=4.8e-06
+模式=对角半圆周
+距离探测器到gr=0.33
+光子能量=14000.0
+源距离=32.0
