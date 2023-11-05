@@ -19,3 +19,7 @@
 
 ![image](https://github.com/chengpengSHINE/Wavefront/assets/130882847/42f38500-6b67-4d56-8681-fc9b5c25117d)
 ![image](https://github.com/chengpengSHINE/Wavefront/assets/130882847/92767eef-0e8f-4595-adaa-c2570488635c)
+
+2023年11月2日在上海光源13HB实验
+![image](https://github.com/chengpengSHINE/Wavefront/assets/130882847/57262b57-f346-43e6-abeb-3beb9a87ab61)
+放大镜相位正确，曲率半径不对
